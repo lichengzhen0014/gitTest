@@ -8,5 +8,6 @@ public class Luck {
     public static void main(String[] args) {
         System.out.println("Git Hello!");
         System.out.println("Git Hello!2");
+        System.out.println("2021/09/13");
     }
 }
